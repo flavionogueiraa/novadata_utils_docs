@@ -17,4 +17,4 @@ Para instalar o projeto, basta rodar o seguinte comando:
 
    (.venv) $ pip install novadata-utils
 
-Para saber como usar o projeto, acesse a seção da :ref`funcionalidades`
+Para saber como usar o projeto, acesse a seção de :ref:`funcionalidades`.
