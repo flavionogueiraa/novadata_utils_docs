@@ -14,11 +14,3 @@ em nosso pacote.
 .. note::
    Esse projeto ainda está em desenvolvimento, novas funcionalidades podem
    surgir com o tempo.
-
-Contents
---------
-
-.. toctree::
-
-   index
-   funcionalidades
