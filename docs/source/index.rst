@@ -1,5 +1,5 @@
-Bem-vindo a documentação do novadata_utils!
-===================================
+Index!
+=====
 
 Esse é um projeto que trás algumas funcionalidades deverás úteis para
 o dia a dia do programador Django, facilitando bastante o desenvolvimento
