@@ -20,4 +20,5 @@ Contents
 
 .. toctree::
 
-   modo de uso
+   index
+   funcionalidades
