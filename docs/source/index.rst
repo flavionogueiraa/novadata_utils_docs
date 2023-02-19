@@ -1,4 +1,4 @@
-Index!
+Index
 =====
 
 Esse é um projeto que trás algumas funcionalidades deverás úteis para
