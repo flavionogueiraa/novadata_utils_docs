@@ -1,7 +1,9 @@
 Funcionalidades
 ===============
 
+####
 NovadataModelViewSet
+####
 
 Classe que implementa o create e o update para o ModelViewSet do Django Rest Framework
 
@@ -16,7 +18,9 @@ Exemplo:
       queryset = MyModel.objects.all()
       serializer_class = MySerializer
 
+####
 NovadataModelSerializer
+####
 
 Classe que traz a serialização de todos os seus objetos necessários para o front-end.
 
@@ -32,7 +36,9 @@ Exemplo:
           model = MyModel
           fields = '__all__'
 
+####
 LoginUsernameEmail
+####
 
 Classe para realizar autenticação com username ou email
 
@@ -45,7 +51,9 @@ Exemplo:
       "novadata_utils.auth.LoginUsernameEmail",
   ]
 
+####
 NovadataModelAdmin
+####
 
 Classe para facilitar a criação de ModelAdmin, implmentando diversas funcionalidades, como:
 autocomplete_fields, filter_horizontal, list_display e list_filter, todos automáticos.
@@ -63,8 +71,9 @@ Exemplo:
           'example2',
       ]
 
-
+####
 reverse_lazy_plus
+####
 
 Função para redirecionamento avançado.
 
