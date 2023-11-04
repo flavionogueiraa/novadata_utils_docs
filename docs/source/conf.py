@@ -6,8 +6,8 @@ project = "Lumache"
 copyright = "2022, Flávio"
 author = "Flávio"
 
-release = "0.1.1"
-version = "0.1.1"
+release = "0.10"
+version = "0.10"
 
 # -- General configuration
 
