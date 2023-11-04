@@ -18,7 +18,8 @@ Além disso, ele atua em conjunto com outros pacotes, implementando algumas func
 
 Exemplo:
 
-.. code-block:: python
+``admin.py ::
+
   # Model:
   from django.contrib.auth.models import User
   from django.db import models
@@ -152,7 +153,7 @@ Exemplo:
   @admin.register(Exemplo)
   class ExemploAdmin(NovadataModelAdmin):
       ...
-
+``
   # Output:
 .. image:: ../assets/images/example_novadata_model_admin1.png
   :alt: ExampleNovadataModelAdmin1
