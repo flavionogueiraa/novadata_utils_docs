@@ -12,7 +12,7 @@ list_display, search_fields, list_filter, autocomplete_fields, list_select_relat
 exclude e advanced_filter_fields, todos automáticos.
 
 O pacote considera o tipo dos campos e mapeia automaticamente os mesmos para suas respectivas propriedades.
-Você pode encontrar a lista de mapeamento [neste](https://github.com/TimeNovaData/novadata_utils/blob/master/novadata_utils/functions/props_dict.py) arquivo do repositório.
+Você pode encontrar a lista de mapeamento `neste <https://github.com/TimeNovaData/novadata_utils/blob/master/novadata_utils/functions/props_dict.py>`_ arquivo do repositório.
 
 Além disso, ele atua em conjunto com outros pacotes, implementando algumas funcionalidades importates.
 
