@@ -7,7 +7,7 @@ NovadataModelViewSet
 
 Classe que implementa o create e o update para o ModelViewSet do Django Rest Framework
 
-Exemplo:
+Exemplo:::
 
 .. code-block:: python
 
