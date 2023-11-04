@@ -154,10 +154,10 @@ Exemplo:
       ...
 
   # Output:
-.. image:: /assets/images/example_novadata_model_admin1.png
-.. image:: /assets/images/example_novadata_model_admin2.png
-.. image:: /assets/images/example_novadata_model_admin3.png
-.. image:: /assets/images/example_novadata_model_admin4.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin1.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin2.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin3.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin4.png
 
 ####
 NovadataModelViewSet
