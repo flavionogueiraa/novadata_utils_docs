@@ -6,7 +6,7 @@ NovadataModelViewSet
 ####
 
 Classe que implementa o create e o update para o ModelViewSet do Django Rest Framework
-
+fdfd
 Exemplo:::
 
 .. code-block:: python
