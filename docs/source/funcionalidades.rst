@@ -155,9 +155,13 @@ Exemplo:
 
   # Output:
 .. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin1.png
+  :alt: ExampleNovadataModelAdmin1
 .. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin2.png
+  :alt: ExampleNovadataModelAdmin2
 .. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin3.png
+  :alt: ExampleNovadataModelAdmin3
 .. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin4.png
+  :alt: ExampleNovadataModelAdmin4
 
 ####
 NovadataModelViewSet
