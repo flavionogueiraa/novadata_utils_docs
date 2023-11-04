@@ -1,8 +1,9 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
+import sphinx_rtd_theme
 
-project = "Lumache"
+project = "novadata-utils"
 copyright = "2022, Flávio"
 author = "Flávio"
 
