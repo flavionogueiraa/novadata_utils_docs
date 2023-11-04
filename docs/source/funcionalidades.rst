@@ -154,13 +154,13 @@ Exemplo:
       ...
 
   # Output:
-.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin1.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/2f8f0b4ac8cc671345faa2f8e5f18f946e58709a/assets/images/example_novadata_model_admin1.png
   :alt: ExampleNovadataModelAdmin1
-.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin2.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/2f8f0b4ac8cc671345faa2f8e5f18f946e58709a/assets/images/example_novadata_model_admin2.png
   :alt: ExampleNovadataModelAdmin2
-.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin3.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/2f8f0b4ac8cc671345faa2f8e5f18f946e58709a/assets/images/example_novadata_model_admin3.png
   :alt: ExampleNovadataModelAdmin3
-.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/master/assets/images/example_novadata_model_admin4.png
+.. image:: https://github.com/flavionogueiraa/novadata_utils_docs/blob/2f8f0b4ac8cc671345faa2f8e5f18f946e58709a/assets/images/example_novadata_model_admin4.png
   :alt: ExampleNovadataModelAdmin4
 
 ####
