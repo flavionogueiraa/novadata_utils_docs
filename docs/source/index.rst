@@ -19,6 +19,7 @@ Conteúdo
 --------
 
 .. toctree::
+   :maxdeepth: 2
 
    index
    usage
