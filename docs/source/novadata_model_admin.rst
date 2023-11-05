@@ -158,11 +158,3 @@ Saída:
   :alt: ExampleNovadataModelAdmin3
 .. image:: ../assets/images/example_novadata_model_admin4.png
   :alt: ExampleNovadataModelAdmin4
-
-.. toctree::
-   :maxdeepth: 2
-
-   index
-   usage
-   funcionalidades
-      novadata_model_admin

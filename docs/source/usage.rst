@@ -52,11 +52,3 @@ Adicione as urls do pacote ``advanced_filters`` em ``urls.py``:
    ]
 
 Para saber como usar o projeto, acesse a seção de :ref:`funcionalidades`.
-
-.. toctree::
-   :maxdeepth: 2
-
-   index
-   usage
-   funcionalidades
-      novadata_model_admin
