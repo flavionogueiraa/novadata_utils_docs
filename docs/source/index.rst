@@ -23,3 +23,4 @@ Conteúdo
    index
    usage
    funcionalidades
+      funcionalidades/novadata_model_admin
