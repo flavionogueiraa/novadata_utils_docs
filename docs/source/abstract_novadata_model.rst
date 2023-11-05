@@ -51,7 +51,7 @@ Exemplo de uso:
 Com isso você conseguirá automaticamente ter os campos de data de criação e atualização,
 além de usuário de criação e atualização, que serão preenchidos automaticamente.
 
-.. seealso::
+.. warning::
 
     A diferença dessa classa para a ``NovadataModel`` é que essa classe é abstrata,
     ou seja, não é possível criar objetos dessa classe diretamente, apenas herdar dela.
