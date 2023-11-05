@@ -3,7 +3,7 @@ Funcionalidades
 
 Seguem as funcionalidades do pacote, bem como exemplos:
 
-.. include:: novadata_model_admin
+.. include:: novadata_model_admin.rst
 
 ####
 NovadataModelViewSet
