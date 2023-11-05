@@ -77,3 +77,11 @@ Exemplo:
   )
   # Output:
   # /testings/1/type_example?mensagem=Esta%20é%20uma%20mensagem#aba-6
+
+.. toctree::
+   :maxdeepth: 2
+
+   index
+   usage
+   funcionalidades
+      novadata_model_admin
