@@ -3,7 +3,7 @@ Funcionalidades
 
 Seguem as funcionalidades do pacote, bem como exemplos:
 
-:ref:`funcionalidades/novadata_model_admin`
+:ref:`novadata_model_admin`
 
 ####
 NovadataModelViewSet
