@@ -1,3 +1,4 @@
+=====
 Index
 =====
 
@@ -16,7 +17,7 @@ em nosso pacote.
    surgir com o tempo.
 
 Conteúdo
---------
+========
 
 .. toctree::
    :maxdepth: 2
@@ -29,6 +30,9 @@ Conteúdo
    :maxdepth: 2
    :caption: Funcionalidades
 
+   novadata_model
+   abstract_novadata_model
+   model_exemplo
    novadata_model_admin
    novadata_model_serializer
    novadata_model_viewset
