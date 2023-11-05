@@ -19,8 +19,8 @@ Conteúdo
 --------
 
 .. toctree::
+   :maxdepth: 2
 
    index
    usage
    funcionalidades
-      novadata_model_admin
