@@ -158,13 +158,13 @@ Exemplo:
 Saída:
 ------
 
-.. figure:: assets/images/example_novadata_model_admin1.png
+.. figure:: ../assets/images/example_novadata_model_admin1.png
   :alt: ExampleNovadataModelAdmin1
-.. figure:: assets/images/example_novadata_model_admin2.png
+.. figure:: ../assets/images/example_novadata_model_admin2.png
   :alt: ExampleNovadataModelAdmin2
-.. figure:: assets/images/example_novadata_model_admin3.png
+.. figure:: ../assets/images/example_novadata_model_admin3.png
   :alt: ExampleNovadataModelAdmin3
-.. figure:: assets/images/example_novadata_model_admin4.png
+.. figure:: ../assets/images/example_novadata_model_admin4.png
   :alt: ExampleNovadataModelAdmin4
 
 NovadataModelViewSet
