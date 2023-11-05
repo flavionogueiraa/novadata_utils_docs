@@ -86,7 +86,7 @@ Exemplo de uso:
 Com isso você conseguirá automaticamente ter os campos de data de criação e atualização,
 além de usuário de criação e atualização, que serão preenchidos automaticamente.
 
-.. seealso::
+.. warning::
 
     Usar a classe NovadataModel gera uma herança, ou seja, a sua classe Exemplo herda
     de NovadataModel, ficando vinculada a ela, isso nem sempre é o desejado, por isso,
