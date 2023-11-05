@@ -20,7 +20,17 @@ Conteúdo
 
 .. toctree::
    :maxdepth: 2
+   :caption: Início
 
    index
    usage
-   funcionalidades
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Funcionalidades
+
+   novadata_model_admin
+   novadata_model_serializer
+   novadata_model_viewset
+   login_username_email
+   reverse_lazy_plus
