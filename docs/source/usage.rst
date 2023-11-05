@@ -9,6 +9,10 @@ Installation
 Dependências:
 
 Django
+Django Advanced Filters
+Django Admin List Filter Dropdown
+Django Admin Rangefilter
+Djnago Import Export
 Django Rest Framework
 
 Para instalar o projeto, basta rodar o seguinte comando:
@@ -19,7 +23,9 @@ Para instalar o projeto, basta rodar o seguinte comando:
 
 Adicione o projeto ``novadata_utils`` em ``INSTALLED_APPS``
 e o middleware ``crum.CurrentRequestUserMiddleware`` em ``MIDDLEWARE``:
+
 .. code-block:: python
+
    INSTALLED_APPS = [
       ...
       'advanced_filters',
@@ -36,7 +42,9 @@ e o middleware ``crum.CurrentRequestUserMiddleware`` em ``MIDDLEWARE``:
    MIDDLEWARE += ('crum.CurrentRequestUserMiddleware',)
 
 Adicione as urls do pacote ``advanced_filters`` em ``urls.py``:
+
 .. code-block:: python
+
    urlpatterns = [
       ...
       path('advanced_filters/', include('advanced_filters.urls')),
