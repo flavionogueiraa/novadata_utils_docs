@@ -15,6 +15,7 @@ Além disso, ele atua em conjunto com outros pacotes, implementando algumas func
 #. search_fields
 #. list_filter
   Alguns tipos de campos são modificados aqui, segue a lista:
+
   #. Foreign keys
     Campos ForeignKey são modificados para um campo de busca, com autocomplete,
     se utilizando do pacote django_admin_listfilter_dropdown, todos os campos
