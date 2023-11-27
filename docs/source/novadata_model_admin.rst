@@ -9,7 +9,33 @@ exclude e advanced_filter_fields, todos automáticos.
 O pacote considera o tipo dos campos e mapeia automaticamente os mesmos para suas respectivas propriedades.
 Você pode encontrar a lista de mapeamento `neste <https://github.com/TimeNovaData/novadata_utils/blob/master/novadata_utils/functions/props_dict.py>`_ arquivo do repositório.
 
-Além disso, ele atua em conjunto com outros pacotes, implementando algumas funcionalidades importates.
+Além disso, ele atua em conjunto com outros pacotes, implementando algumas funcionalidades interessantes. Segue a lista:
+
+#. list_display
+#. search_fields
+#. list_filter
+  Alguns tipos de campos são modificados aqui, segue a lista:
+  #. Foreign keys
+    Campos ForeignKey são modificados para um campo de busca, com autocomplete,
+    se utilizando do pacote django_admin_listfilter_dropdown, todos os campos
+    desse tipo são feitos com a classe RelatedOnlyDropdownFilter.
+  #. Campos com choices
+    Campos com choices são modificados para um campo de busca, com autocomplete,
+    se utilizando do pacote django_admin_listfilter_dropdown, todos os campos
+    desse tipo são feitos com a classe ChoiceDropdownFilter.
+  #. Datas
+    Campos DateField e DateTimeField são modificados para um campo de busca,
+    com autocomplete, se utilizando do pacote rangefilter,
+    todos os campos desses tipos são feitos com a função DateRangeQuickSelectListFilterBuilder.
+  #. Numéricos
+    Campos DecimalField, IntegerField e PositiveIntegerField são modificados para um campo de busca,
+    com autocomplete, se utilizando do pacote rangefilter, todos os campos desses tipos são feitos
+    com a função NumericRangeFilterBuilder.
+#. autocomplete_fields
+#. list_select_related
+#. filter_horizontal
+#. exclude
+#. advanced_filter_fields
 
 Exemplo:
 =======
